@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Jessie/Downloads/agilea/selenium/libs/byte-buddy-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jessie/Downloads/agilea/selenium/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jessie/Downloads/agilea/selenium/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jessie/Downloads/agilea/selenium/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jessie/Downloads/agilea/selenium/libs/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jessie/Downloads/agilea/selenium/libs/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jessie/Downloads/agilea/selenium/libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jessie/Downloads/agilea/selenium/libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jessie/Downloads/agilea/selenium/libs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jessie/Downloads/agilea/selenium/libs/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jessie/Downloads/agilea/selenium/client-combined-3.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jessie/Downloads/agilea/selenium/client-combined-3.6.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jessie/Downloads/agilea/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jessie/Downloads/agilea/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jessie/Downloads/agilea/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jessie/Downloads/agilea/cucumber-core-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jessie/Downloads/agilea/cucumber-junit-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jessie/Downloads/agilea/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jessie/Downloads/agilea/cucumber-reporting-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jessie/Downloads/agilea/gherkin-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jessie/Downloads/agilea/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
